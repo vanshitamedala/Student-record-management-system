@@ -12,10 +12,6 @@ The Student Record Management System is a Java-based application designed to hel
 
 4. **Search Students**: Users can search for specific students by providing their names or unique identification numbers.
 
-5. **Generate Reports**: The system provides functionality to create reports, such as class rosters, student details, and enrollment statistics.
-
-6. **User Authentication**: To ensure data security, user authentication is implemented to restrict access to authorized personnel.
-
 ## System Requirements
 - Java Development Kit (JDK)
 - Integrated Development Environment (IDE) like Eclipse or IntelliJ IDEA
